@@ -5,4 +5,3 @@ use wx\Tool;
 $tool = new Tool();
 $tool->getAuth();
 include('html/index.html');
-// asdf
